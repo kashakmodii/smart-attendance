@@ -40,11 +40,17 @@ The **Smart Attendance Management System** is a Python and web-based application
 ## 📁 Project Structure
 
 📂 Smart-Attendance-System
+
 ├── index.html # Web UI
+
 ├── style.css # UI Styling
+
 ├── script.js # JS for webcam & image capture
+
 ├── attendance_records.xlsx # Attendance logs
+
 ├── face_recognition.py # Python logic for face detection
+
 └── README.md # Project documentation
 
 
