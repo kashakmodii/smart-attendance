@@ -1,4 +1,4 @@
-# Smart Attendance Management System 🎓📸
+# Smart Attendance Management System 📸
 
 A smart, automated attendance system using face recognition technology, integrated with a real-time webcam interface and Excel-based attendance logging.
 
