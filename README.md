@@ -1,26 +1,24 @@
-# Smart Attendance Management System 📸
+# Smart Attendance Management System 
 
 A smart, automated attendance system using face recognition technology, integrated with a real-time webcam interface and Excel-based attendance logging.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The **Smart Attendance Management System** is a Python and web-based application that captures student attendance using facial recognition. It eliminates manual attendance-taking by automating recognition and record-keeping.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎥 **Real-time Webcam Face Recognition**
-- 🧠 **Accurate Student Identification**
-- 📊 **Excel Integration for Attendance Records**
-- 🌐 **User-friendly Web Interface (HTML, CSS, JS)**
-- 🛡️ **Robust Error Handling and Notifications**
+-  **Real-time Webcam Face Recognition**
+-  **Accurate Student Identification**
+-  **Excel Integration for Attendance Records**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Frontend       | Backend          | Database / Storage     |
 |----------------|------------------|-------------------------|
@@ -28,7 +26,7 @@ The **Smart Attendance Management System** is a Python and web-based application
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. The system opens a webcam interface via the browser.
 2. Captured images are sent to a Python backend for face detection and matching.
@@ -37,15 +35,10 @@ The **Smart Attendance Management System** is a Python and web-based application
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
-📂 Smart-Attendance-System
+Smart-Attendance-System
 
-├── index.html # Web UI
-
-├── style.css # UI Styling
-
-├── script.js # JS for webcam & image capture
 
 ├── attendance_records.xlsx # Attendance logs
 
@@ -56,7 +49,7 @@ The **Smart Attendance Management System** is a Python and web-based application
 
 ---
 
-## 🧪 Prerequisites
+##  Prerequisites
 
 - Python 3.x
 - OpenCV
